@@ -6,7 +6,7 @@ Software Developer | Business Data Professional
 
 * 🌍  I'm based in Karlsruhe, Germany
 * 🖥️  See my portfolio at [https://mrs-coding.de](http://mrs-coding.de)
-* ✉️  You can contact me at [xxxx@gmail.com](mailto:svetlana@mrs-coding.de)
+* ✉️  You can contact me at [svetlana@mrs-coding.de](mailto:svetlana@mrs-coding.de)
 * ⚡  🌸 Flowers, painting, and code — my favorite worlds. 💻 I love creating beautiful and creative solutions through programming. 🎨 Where technology meets aesthetics — making the digital world a prettier place. 🚀 Always curious about new tools, ideas, and technologies.
 
 ### Skills
